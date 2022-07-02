@@ -5,6 +5,7 @@
   
   ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
   
+  [alifertah42@gmail.com](mailto:alifertah42@gmail.com)
   
 </div>
 
