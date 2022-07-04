@@ -12,6 +12,7 @@
   [![Linkedin: imthepk](https://img.shields.io/badge/-alifertah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alifertah/)](https://www.linkedin.com/in/alifertah/)
 
 ![](https://badge.mediaplus.ma/darkgray/alfertah)
+  </div>
   [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
@@ -19,7 +20,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
   
-  </div>
  <div align="center">
 <a href="https://github.com/alifertah">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifertah&theme=light" />
