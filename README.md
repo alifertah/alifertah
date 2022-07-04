@@ -3,7 +3,7 @@
 
 
 <div id="header" align="center">
-  <a href="#"><img width="100%" height="auto" src="[https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)" height="175px"/></a>
+  <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="175px"/></a>
   
   ![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
   
