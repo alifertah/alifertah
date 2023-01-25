@@ -10,6 +10,7 @@
   [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/alifertah42.svg?style=social&label=Follow%20%40alifertah)](https://twitter.com/alifertah42)
   
   [![Linkedin: imthepk](https://img.shields.io/badge/-alifertah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alifertah/)](https://www.linkedin.com/in/alifertah/)
+  
   </div>
   
  <div align="center">
