@@ -29,7 +29,6 @@
 <a href="https://github.com/hamza-ezzahiry">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alifertah&show_icons=true&theme=light&line_height=40" alt="SpiderX's github stats"/>
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifertah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  </div>
  -->
 <div align="center">
